@@ -15,7 +15,7 @@ Analizar el recorrido de los usuarios dentro del proceso de compra para detectar
 
 ## 📊 Dashboard Preview
 
-*[Insertar captura del dashboard aquí]*
+![Dashboard Preview](dashboard/dashboard_preview.png)
 
 ## 📈 KPIs Analizados
 
