@@ -2,6 +2,12 @@
 
 Proyecto de análisis de datos enfocado en comprender el comportamiento de los usuarios a lo largo del embudo de compra de una plataforma de comercio electrónico, identificando oportunidades para mejorar la conversión, adquisición de clientes y rentabilidad.
 
+## 📖 Descripción del Proyecto
+
+Este proyecto analiza el comportamiento de los usuarios a lo largo del embudo de compra de una plataforma de comercio electrónico para identificar cuellos de botella en la conversión, evaluar el rendimiento de los canales de adquisición y detectar oportunidades de mejora en ingresos y rentabilidad.
+
+Mediante el uso de SQL, PostgreSQL/BigQuery y Power BI, se exploran las diferentes etapas del customer journey para comprender cómo los usuarios avanzan desde su primera visita hasta la compra final.
+
 ## 🎯 Objetivo
 
 Analizar el recorrido de los usuarios dentro del proceso de compra para detectar puntos de abandono, evaluar el rendimiento de los canales de adquisición y descubrir oportunidades de optimización del funnel de conversión.
