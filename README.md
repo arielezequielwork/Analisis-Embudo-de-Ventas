@@ -52,4 +52,4 @@ Analizar el recorrido de los usuarios dentro del proceso de compra para detectar
 
 ## 📄 Documentación Adicional
 
-Para una explicación completa de la metodología, consultas SQL, desarrollo del dashboard, análisis de resultados y recomendaciones de negocio, consultar el reporte incluido en la carpeta `documents/`.
+Para una explicación completa de la metodología, consultas SQL, desarrollo del dashboard, análisis de resultados y recomendaciones de negocio, consultar el reporte incluido en la carpeta `documents/` o el powerpoint ejecutivo disponible en la carpeta `presentation/`.
